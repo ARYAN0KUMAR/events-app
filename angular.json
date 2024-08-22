@@ -136,7 +136,8 @@
   "cli": {
     "schematicCollections": [
       "@ionic/angular-toolkit"
-    ]
+    ],
+    "analytics": "ac3a9651-ddd5-4639-8af2-d967b81ec129"
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
